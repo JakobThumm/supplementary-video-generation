@@ -23,7 +23,7 @@ keeps the parts that generalise: the pipeline, the shot contract, and the bugs.
 ## Install
 
 ```bash
-git clone https://github.com/<you>/supplementary-video-generation \
+git clone https://github.com/JakobThumm/supplementary-video-generation \
           ~/.claude/skills/supplementary-video-generation
 ```
 
