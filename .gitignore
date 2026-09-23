@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+# a scaffold copied into a project generates these; never commit them here
+build/
+out/
+media/
+assets/voices/
